@@ -1,32 +1,33 @@
-# Create and manage infrastructure using Terraform and automate the deployment process with GitHub Actions.
+# Create and Manage Infrastructure Using Terraform and Automate the Deployment Process with GitHub Actions
 
-![Project Flow](https://github.com/gauri17-pro/vpc-terraform-github-actions/assets/60473255/0e09102c-2949-4576-be43-39900a2c1a95)
- 
- ## Introduction 
- This GitHub project provides a comprehensive guide and a set of resources to create and manage infrastructure using Terraform and automate the deployment process using GitHub Actions. 
- 
- Terraform is an open-source infrastructure as code (IaC) tool that allows you to define and provision infrastructure using a declarative configuration language. 
- 
- Whereas GitHub Actions is a powerful automation and CI/CD platform provided by GitHub.
+## Overview
 
- 
-By combining Terraform and GitHub Actions, you can:
+This repository demonstrates how to create and manage cloud infrastructure using Terraform, along with automating the deployment process using GitHub Actions. The goal is to provide a streamlined workflow for provisioning and managing infrastructure as code (IaC) in a cloud environment.
 
-**Define Infrastructure as Code**: Define your infrastructure components, such as virtual machines, databases, and networks, in a Terraform configuration file.
+## Table of Contents
 
-**Automate Deployment**: Set up GitHub Actions workflows to automatically deploy your infrastructure whenever there are changes to your Terraform configuration.
-
-**Version Control**: Keep your infrastructure code version-controlled and easily collaborate with your team.
-
-**Infrastructure as Code Best Practices**: Follow best practices for infrastructure as code, including versioning, code review, and documentation.
-
-This project serves as a starting point for your infrastructure automation journey, providing a basic structure and guidelines to build upon.
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Directory Structure](#directory-structure)
+- [Terraform Modules](#terraform-modules)
+- [GitHub Actions Workflow](#github-actions-workflow)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Prerequisites
-Before you begin, ensure you have the following prerequisites:
 
-* GitHub Account
-* Terraform installed on your local machine.
-* Access to a cloud provider account (e.g., AWS, Azure, Google Cloud) and necessary API credentials.
+Before you begin, ensure you have met the following requirements:
 
+- [Terraform](https://www.terraform.io/downloads.html) installed on your local machine.
+- An [AWS account](https://aws.amazon.com/) (or any other cloud provider you wish to use).
+- [GitHub](https://github.com/) account.
+- Basic knowledge of Terraform and GitHub Actions.
 
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
