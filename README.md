@@ -49,12 +49,12 @@ Run the following command to initialize the Terraform configuration:
 4. **Plan your infrastructure:**
 Generate an execution plan to see what resources will be created:
    ```bash
-    terraform plan
+   terraform plan
    
 6. **Apply the configuration:**
 Deploy the infrastructure by applying the configuration:
    ```bash
-        terraform Apply 
+   terraform Apply 
    
 ## GitHub Actions Workflow
 
