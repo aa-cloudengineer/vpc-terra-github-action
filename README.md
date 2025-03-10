@@ -11,7 +11,6 @@ This repository provides a comprehensive guide and example implementation for cr
 - [Getting Started](#getting-started)
 - [GitHub Actions Workflow](#github-actions-workflow)
 - [Terraform Configuration](#terraform-configuration)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -44,18 +43,18 @@ Follow the documentation for your specific cloud provider to configure authentic
 
 3. **Initialize Terraform:**
 Run the following command to initialize the Terraform configuration:
-       ```bash
-       terraform init
+   ```bash
+   terraform init
 
 4. **Plan your infrastructure:**
 Generate an execution plan to see what resources will be created:
-       ```bash
-        terraform plan
+   ```bash
+    terraform plan
    
 6. **Apply the configuration:**
 Deploy the infrastructure by applying the configuration:
-       ```bash
-       terraform plan
+   ```bash
+        terraform Apply 
    
 ## GitHub Actions Workflow
 
