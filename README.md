@@ -1,7 +1,7 @@
 # Create and Manage Infrastructure Using Terraform and Automate the Deployment Process with GitHub Actions
 
 ## Overview
-![Project Flow](images/project-flow.jpg)
+![Project Flow](images/project-flow2.jpg)
 This repository provides a comprehensive guide and example implementation for creating and managing infrastructure using Terraform and automating the deployment process with GitHub Actions. The goal is to streamline infrastructure provisioning and application deployment, ensuring a consistent and repeatable process.
 
 ## Table of Contents
