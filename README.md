@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a comprehensive guide and example implementation for creating and managing infrastructure using [Terraform](https://www.terraform.io/) and automating the deployment process with [GitHub Actions](https://github.com/features/actions). The goal is to streamline infrastructure provisioning and application deployment, ensuring a consistent and repeatable process.
+This repository provides a comprehensive guide and example implementation for creating and managing infrastructure using Terraform and automating the deployment process with GitHub Actions. The goal is to streamline infrastructure provisioning and application deployment, ensuring a consistent and repeatable process.
 
 ## Table of Contents
 
@@ -25,8 +25,8 @@ This repository provides a comprehensive guide and example implementation for cr
 
 Before you begin, ensure you have the following installed:
 
-- [Terraform](https://www.terraform.io/downloads.html)
-- [Git](https://git-scm.com/)
+- Terraform
+- Git
 - A GitHub account
 - Access to a cloud provider (e.g., AWS, Azure, GCP) with appropriate permissions
 
